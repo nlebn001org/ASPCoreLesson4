@@ -1,0 +1,13 @@
+{
+  "Books": {
+    "1": "FirstBook",
+    "2": "SecondBook",
+    "3": "ThirdBook"
+  },
+
+  "Students": {
+    "1": "FirstStudent",
+    "2": "SecondStudent",
+    "3": "ThirdStudent"
+  }
+}
